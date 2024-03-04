@@ -2,12 +2,16 @@
   "users": [
     {
       "id": 1,
-      "mail": "aaa@aaa.com"
+      "username": "aaa@aaa.com"
+    },
+    {
+      "id": 2,
+      "username": "bbb@aaa.com"
     }
   ],
   "tickets": {
     "id": 1,
-    "user_id": 1,
+    "user_id": 2,
     "title": "i am a ticket headline",
     "body": "i am a ticket body"
   }
